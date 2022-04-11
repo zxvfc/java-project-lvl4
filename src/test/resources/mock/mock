@@ -1,0 +1,9 @@
+<html>
+    <head>
+    <title>Hello Mock</title>
+        <meta name="description" content="Trying to use Mock">
+    </head>
+    <body>
+        <h1 class="h1-mktg color-text-white mb-3 position-relative z-2">Win with Mock?</h1>
+    </body>
+</html>
